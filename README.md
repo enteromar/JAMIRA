@@ -157,7 +157,7 @@ The plasmid prediction module searches for well-known replicon sequences to dete
 
 ### Enteromar group
 - Learn more about our projects:
-[![Enteromar](https://www.enteromar.com.br/static/media/enteromarpng.56af2746.png)](http://enteromar.com.br)
+[![Enteromar](https://img.shields.io/badge/Enteromar-group-blue)](http://enteromar.com.br)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
