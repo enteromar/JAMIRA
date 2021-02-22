@@ -24,6 +24,7 @@ JAMIRA is a Bioinformatics Workflow for Integrative Exploration of Genomic Featu
 To run JAMIRA you need to install Conda.
 JAMIRA Workflow is intended to be executed in a Conda environment to ensure data reproducibillity and modularization among different genomic tools used in this pipeline. Thus, for each tool an isolated Conda environment was created, in which it encapsulates all the software dependencies necessary for execution.
 <br><br> Python version 3.7 is recommended.
+<br><br> Note: this tutorial was done using the Linux operating system. We believe that the same steps can be reproduced on macOS.
 
 ## Configuration
 After complete Conda installation you need to add the necessary files present in this github in your conda folder. 
@@ -156,8 +157,7 @@ The plasmid prediction module searches for well-known replicon sequences to dete
 * **Robson Ruiz** - *Web server development* - [Github](https://github.com/robsonruiz)
 
 ### Enteromar group
-- Learn more about our projects:
-[![Enteromar](https://img.shields.io/badge/Enteromar-group-blue)](http://enteromar.com.br)
+- Learn more about our projects: [Enteromar Group](http://enteromar.com.br)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
