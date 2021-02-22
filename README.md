@@ -2,6 +2,10 @@
   <img src="https://github.com/icaromsc/WGCA/blob/master/src/jamira_logo.jpeg" width="40%" height="40%"/>
 </h1>
 
+
+<h6> JAMIRA – a reproducible and scalable workflow for prokaryote genomic data analysis
+designed for the genera Enterococcus spp. </h6>
+
 # JAMIRA WORKFLOW
 JAMIRA is a Bioinformatics Workflow for Integrative Exploration of Genomic Features of bacterias including:
 - Virulence factors (ABRICATE);
@@ -21,7 +25,7 @@ JAMIRA is a Bioinformatics Workflow for Integrative Exploration of Genomic Featu
 
 
 ## Getting Started
-To run JAMIRA you need to install Conda.
+To run JAMIRA you need to install Conda (prerequisites).
 JAMIRA Workflow is intended to be executed in a Conda environment to ensure data reproducibillity and modularization among different genomic tools used in this pipeline. Thus, for each tool an isolated Conda environment was created, in which it encapsulates all the software dependencies necessary for execution.
 <br><br> Python version 3.7 is recommended.
 <br><br> Note: this tutorial was done using the Linux operating system. We believe that the same steps can be reproduced on macOS.
@@ -40,7 +44,7 @@ conda config --add channels conda-forge
 ```
 conda env create -f envs/config.yaml -n jamira
 ```
-- activate your JAMIRA environment:
+- Activate your JAMIRA environment:
 
 ```
 conda activate jamira
@@ -156,7 +160,7 @@ The plasmid prediction module searches for well-known replicon sequences to dete
 * **Rafaella Bueno** - *Web server development* - [Github](https://github.com/rafaellabueno)
 * **Robson Ruiz** - *Web server development* - [Github](https://github.com/robsonruiz)
 
-### Enteromar group
+### Enteromar Group
 - Learn more about our projects: [Enteromar Group](http://enteromar.com.br)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-science.svg)](https://forthebadge.com)
