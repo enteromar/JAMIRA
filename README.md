@@ -1,11 +1,9 @@
-a reproducible and scalable workflow for prokaryote genomic data analysis designed for the genera Enterococcus spp.
-
 <h1 align="center">
   <img src="https://github.com/icaromsc/WGCA/blob/master/src/jamira_logo.jpeg" width="40%" height="40%"/>
 </h1>
 
 
-<h6> JAMIRA – a reproducible and scalable workflow for prokaryote genomic data analysis
+<h6> – a reproducible and scalable workflow for prokaryote genomic data analysis
 designed for the genera Enterococcus spp. </h6>
 
 # JAMIRA WORKFLOW
