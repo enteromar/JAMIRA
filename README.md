@@ -35,7 +35,7 @@ After complete Conda installation you need to add the necessary files present in
 Follow the steps:
 - Add the bioconda channel with the following commands:
 ```
-conda config --add channels defaults:
+conda config --add channels defaults
 conda config --add channels bioconda
 conda config --add channels conda-forge
 ```
